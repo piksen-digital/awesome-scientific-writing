@@ -51,6 +51,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
+- [CitationLX](https://citationlx.online) - Web citation repair tool designed for academics, researchers, and students to repair mangled datasets.  
 - [citecheck](https://github.com/tobiasosDev/citecheck) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [ScholarRef](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
